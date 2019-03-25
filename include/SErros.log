@@ -1,0 +1,11 @@
+﻿Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\BestMice.py", line 444, in parseString
+    gift.parsePackets.parsePacket(packetID, C, CC, packet)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 110, in parsePacket
+    gift.client.parseSkill.sendSkillObject(6, gift.client.posX, 395, 0)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseSkill.py", line 32, in sendSkillObject
+    gift.client.room.sendAll(Identifiers.send.Skill_Object, ByteArray().writeShort(posX).writeShort(posY).writeByte(objectID).writeShort(angle).toByteArray())
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ByteArray.py", line 25, in writeShort
+    gift.bytes += pack('!h', int(value))
+error: 'h' format requires -32768 <= number <= 32767
+

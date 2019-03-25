@@ -1,0 +1,122 @@
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 428, in parsePacket
+    this.client.parseCodeCmd.parseCommandCode(command)
+NameError: global name 'this' is not defined
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
+Traceback (most recent call last):
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParsePackets.py", line 427, in parsePacket
+    gift.client.parseCommands.parseCommand(command)
+  File "C:\Users\Maxence\Desktop\Gifted Source\modules\ParseCommands.py", line 47, in parseCommand
+    gift.client.sendLuaMessageAdmin("<font color='#A566A9'>[%s]</font> - <font color='#A566A9'>[%s]</font><font color='#E35A4F'> write command: <CH>/%s" %(gift.client.ipAddress, gift.client.playerName, command))
+AttributeError: Client instance has no attribute 'sendLuaMessageAdmin'
+
